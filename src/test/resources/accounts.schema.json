@@ -15,8 +15,8 @@
       "currency": {
         "enum": ["RUB", "USD"]
       },
-      "patternProperties": false
     },
+    "patternProperties": false,
     "properties": {
       "id": {
         "type": "integer"
